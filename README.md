@@ -49,6 +49,7 @@ The project intends to answer a number of important concerns about the film busi
 - Correlation heatmap varies greatly from director to director.
 - For certain directors, while movie rating might not affect financial success, the count of ratings has a positive correlation with box office.
 
+Note: These insights are visualized in the [Medium post](https://medium.com/@abdulahadbukhari911/unveiling-the-directors-vision-a-deep-dive-into-movie-data-analytics-9cb140f5e6b4) and also in "Main_Notebook_G18.ipynb". 
 
 # Overview of files: 
 
