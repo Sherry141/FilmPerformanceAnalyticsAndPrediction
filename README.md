@@ -70,3 +70,14 @@ A list of the top 250 directors based on IMDb ratings. This list is used by "cre
 
 ### blogpost_links.txt
 This text file contains links to Medium blogposts we made for our project. Feel free to read the second (updated) one to get a summary of our project! 
+
+
+# My Contributions
+This was a group project, and my contributions were as follows: 
+-Defined the initial scope of the project after coming up with the idea, and helped brainstorm and define our primary research questions
+-Trained the machine learning model (in "Main_Notebook_G18.ipynb")
+-Repeatedly tuned the ML model and evaluated it (details in "Performance Metrics (ML Model) - G18.docx")
+-Helped create the dataframe after analzying many different scraping options and APIs we could use, and writing part of the code for the TMDb API we eventually used
+-Helped decide what analysis to do for our EDA and for the main analysis
+-Came up with formulas for success_financial and success_popularity (descriptions in the main notebook) to make target variables for the ML model and wholistically quantify a movie's success
+
