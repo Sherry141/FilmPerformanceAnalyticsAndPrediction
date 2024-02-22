@@ -1,4 +1,4 @@
-# FilmPerformanceAnalyticsAndPrediction
+# Movie Success Forecaster: Data-Driven Insights into Film Success
 This project analyzes movie data to find out what makes some movies do better than others at the box office. We looked at different things like how much money was spent on making the movie, the movie's genre, when it was released, and how much money it made. By comparing these factors, we tried to see if there are any patterns that can predict if a movie will be successful. 
 After all this analysis, we also built a machine learning model that tries to guess how well a particular director's next movie would perform, if we know details like its budget, genre, production house, etc. 
 
